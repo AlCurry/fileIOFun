@@ -1,0 +1,14 @@
+this input file should be at top level below project directory name 
+- no path is specified
+A little learning is a dangerous thing
+Drink deep or taste not the Pierian spring.
+I enjoy writing code of many styles 
+and have fixed many bugs, which can be even more fun.
+alas, the complex stuff work of my past is proprietary,
+belonging to former employers
+putting it out on github was never an option
+with luck these diverse examples are indicative
+you will not be disappointed by my skill
+give me a shot, my break has been long enough
+time to do some new work 
+if its in Berlin, so much the better
